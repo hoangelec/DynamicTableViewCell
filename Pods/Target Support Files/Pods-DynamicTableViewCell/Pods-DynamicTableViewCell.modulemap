@@ -1,0 +1,6 @@
+framework module Pods_DynamicTableViewCell {
+  umbrella header "Pods-DynamicTableViewCell-umbrella.h"
+
+  export *
+  module * { export * }
+}
